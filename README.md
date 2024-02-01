@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andretenan
+- 👋 Hi, I’m @Brian
 - 👀 I’m interested in artifical intelligence, machine learning and game development..
 - 🌱 I’m currently learning python and java programming  
 - - 💞️ I’m looking to collaborate on any machine learning projects and deep learning models.
